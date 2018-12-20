@@ -37,7 +37,7 @@
     "versionFirst": "4.5.2",
     "uniqCompNum": 12,
     "versionPublish": "4.8.10",
-    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2017-12-06-at-6.46.23-pm-73x491.png",
+    "favicon": "@PROJECT_PATH@/assets/images/screen-shot-2017-12-06-at-6.46.23-pm-73x492.png",
     "noImageResize": "",
     "google-analytics": "Eatworx,meal plan, shopping,healthy,cook,family,eat,fun,",
     "path": "@PROJECT_PATH@",
@@ -491,6 +491,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#55b4d4",
+              "text-align": "center"
+            },
+            "H2": {
               "text-align": "center"
             }
           },
